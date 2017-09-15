@@ -1,0 +1,3 @@
+./PI 10
+./Vector 10
+./PageRank 0 page_rank.conf
